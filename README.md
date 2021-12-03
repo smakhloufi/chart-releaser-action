@@ -2,7 +2,7 @@
 
 A GitHub action to turn a GitHub project into a self-hosted Helm chart repo, using [helm/chart-releaser](https://github.com/helm/chart-releaser) CLI tool.
 
-## Usage
+# Usage
 
 ### Pre-requisites
 
